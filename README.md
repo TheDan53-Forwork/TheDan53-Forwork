@@ -1,13 +1,5 @@
-Languages| Python ● Scalar ● Novice: Java ● JavaScript
+<p align=”center”>
 
-Framework & Library| PySpark ● Pandas ● Selenium ● Streamlit ● Neural Prophet ● Novice: Tensorflow ● Sklearn
+<img width=”200" height=”200" src=”https://github.com/TheDan53-Forwork/TheDan53-Forwork/assets/89256053/7d21decb-ba2a-426d-9dd7-c1bf300fb0dc" alt=”my banner”>
 
-ETLs & Data Pipeline| Airflow ● Docker ● Infomatica ● Kafka
-
-Google Cloud| Bigquery ● GCS ● Dataproc ● Cloud Functions ● Compute Engine ● Vertex AI...
-
-SQL & NoSQL| SQL Server ● MySQL ● PostgreSQL ● MongoDB
-
-BI Tools| Power Bi ● Data Studio (Looker)
-
-Miscellaneous| Git ● Linux ● Amazon S3 ● Recommendations ( Content-Based ● Collaborative filtering) ● Machine Learning
+</p>
