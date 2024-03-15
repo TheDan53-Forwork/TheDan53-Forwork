@@ -10,7 +10,7 @@ Hi there, I'm <a href="" target="_blank" rel="noreferrer">Dan</a> 👋
 I'm a Data Engineer 💻!
 </h2> 
 
-As a passionate Data Engineer, I find purpose in weaving narratives from numbers, translating raw data into compelling stories that illuminate pathways for informed decisions and foster enduring progress. In my pursuit, I see beyond the mere construction of data systems; I envision a world where dreams materialize into tangible realities, where data transcends its conventional bounds to become a catalyst for transformative change, propelling societies forward on a journey of innovation and enlightenment.
+As a Data Engineer, I envision myself as an architect sculpting the intricate highways through which data traverses within our digital infrastructure. Similar to designing a sophisticated network of roads and bridges, I construct robust pipelines and systems that facilitate the smooth and efficient flow of data. 
 
 ### 🤝 Connect with me:
 
@@ -25,7 +25,7 @@ As a passionate Data Engineer, I find purpose in weaving narratives from numbers
 
 ## 🌱 I'm currently learning
 
-- Mathematics and Computer Science in University of Science (VNUHCM-US)
+- Data Science, Faculty of Mathematics and Computer Science in University of Science (VNUHCM-US)
 
 ## 💼 Technical Skills
 
