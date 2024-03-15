@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" height="200" src="https://github.com/TheDan53-Forwork/TheDan53-Forwork/assets/89256053/9f41bc55-e3a0-45c2-9907-7ddc0318612f" alt="my banner">
+<img src="https://github.com/TheDan53-Forwork/TheDan53-Forwork/assets/89256053/9f41bc55-e3a0-45c2-9907-7ddc0318612f" alt="my banner">
 </p>
 
 <h3 align="center">
@@ -14,8 +14,8 @@ As a passionate Data Engineer, I find purpose in weaving narratives from numbers
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://www.facebook.com/thedan.forwork/"><img align="left" src="/images/facebook.png" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="/images/linkedin.png" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
@@ -67,5 +67,3 @@ As a passionate Data Engineer, I find purpose in weaving narratives from numbers
 ## 📈 GitHub Stats 
 
 [![Yu's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/yushi1007)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
