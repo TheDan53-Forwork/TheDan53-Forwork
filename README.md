@@ -1,5 +1,5 @@
 <p align="center">
-<img src="[https://github.com/TheDan53-Forwork/TheDan53-Forwork/assets/89256053/9f41bc55-e3a0-45c2-9907-7ddc0318612f](https://github.com/user-attachments/assets/bdf0720f-5805-49e9-a3ba-aa4767943890)" alt="my banner">
+<img src="[https://github.com/TheDan53-Forwork/TheDan53-Forwork/assets/89256053/9f41bc55-e3a0-45c2-9907-7ddc0318612f]" alt="my banner">
 </p>
 
 <h3 align="center">
