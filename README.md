@@ -21,9 +21,9 @@ As a Data Analyst, I envision myself as a navigator charting the maps of our dig
 
 ## 🔭 I'm currently working on
 
-- Ecommerce Data Analyst Intern, Shiseido Vietnam
+- E-Commerce Data Analyst Intern, Shiseido Cosmetics Vietnam Co., Ltd.
 
-## 🌱 I'm currently learning
+## 🌱 I've completed
 
 - B.Sc. in Data Science, Faculty of Mathematics and Computer Science in University of Science (VNUHCM-US)
 
