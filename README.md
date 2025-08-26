@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/TheDan53-Forwork/TheDan53-Forwork/assets/89256053/9f41bc55-e3a0-45c2-9907-7ddc0318612f" alt="my banner">
+<img src="[https://github.com/TheDan53-Forwork/TheDan53-Forwork/assets/89256053/9f41bc55-e3a0-45c2-9907-7ddc0318612f](https://github.com/user-attachments/assets/bdf0720f-5805-49e9-a3ba-aa4767943890)" alt="my banner">
 </p>
 
 <h3 align="center">
@@ -7,10 +7,10 @@ Hi there, I'm <a href="" target="_blank" rel="noreferrer">Dan</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Data Engineer 💻!
+I'm a Data Analyst 💻!
 </h2> 
 
-As a Data Engineer, I envision myself as an architect sculpting the intricate highways through which data traverses within our digital infrastructure. Similar to designing a sophisticated network of roads and bridges, I construct robust pipelines and systems that facilitate the smooth and efficient flow of data. 
+As a Data Analyst, I envision myself as a navigator charting the maps of our digital landscape. Just as an explorer interprets terrain to guide journeys, I decode raw data into meaningful insights that illuminate patterns, trends, and opportunities. Through careful analysis, I transform complex information into clear directions that empower decision-making and strategic growth. 
 
 ### 🤝 Connect with me:
 
@@ -21,38 +21,26 @@ As a Data Engineer, I envision myself as an architect sculpting the intricate hi
 
 ## 🔭 I'm currently working on
 
-- 
+- Ecommerce Data Analyst Intern, Shiseido Vietnam
 
 ## 🌱 I'm currently learning
 
-- Data Science, Faculty of Mathematics and Computer Science in University of Science (VNUHCM-US)
+- B.Sc. in Data Science, Faculty of Mathematics and Computer Science in University of Science (VNUHCM-US)
 
 ## 💼 Technical Skills
 
 📋 Languages
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 
 </br>
 
 📚 Frameworks, Platforms and Libraries
 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 </br>
 
@@ -103,4 +91,4 @@ As a Data Engineer, I envision myself as an architect sculpting the intricate hi
 
 ## 📈 GitHub Stats 
 
-[![Dan's github stats](https://github-readme-stats.vercel.app/api?username=Thedan53-Forwork)](https://github.com/Thedan53-Forwork)
+[![Dan's github stats](https://github-readme-stats.vercel.app/api?username=Thedan53-Forwork&theme=prussian&show_icons=true)](https://github.com/Thedan53-Forwork)
