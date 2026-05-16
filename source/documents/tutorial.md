@@ -18,7 +18,7 @@
 - Make the repository Public.
 - Check the box - Add a README file.
 - Click **Create Repository**.
-<img align="left" src="/source/images/create_repository.png" alt="Create Secret Repository" width="800px" height="800px"/>
+<img src="/source/images/create_repository.png" alt="Create Secret Repository" width="800px" height="800px"/>
 </br>
 
 ## Update README file
