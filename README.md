@@ -14,8 +14,8 @@ As a Data Analyst, I envision myself as a navigator charting the maps of our dig
 
 ### 🤝 Connect with me:
 
-<a href="https://www.facebook.com/thedan.forwork/"><img align="left" src="/images/facebook.png" alt="Dan Huynh | Facebook" width="21px"/></a>
-<a href="https://www.linkedin.com/in/danhuynhnguyenthe/"><img align="left" src="/images/linkedin.png" alt="Dan Huynh | LinkedIn" width="21px"/></a>
+<a href="https://www.facebook.com/thedan.forwork/"><img align="left" src="/source/images/facebook.png" alt="Dan Huynh | Facebook" width="21px"/></a>
+<a href="https://www.linkedin.com/in/danhuynhnguyenthe/"><img align="left" src="/source/images/linkedin.png" alt="Dan Huynh | LinkedIn" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
