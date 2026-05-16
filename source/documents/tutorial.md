@@ -1,7 +1,6 @@
 # GitHub Profile README Tutorial
-> A practical guide to creating a professional GitHub profile README for portfolio, branding, and recruiter visibility.
+* A practical guide to creating a professional GitHub profile README for portfolio, branding, and recruiter visibility.
 
----
 
 ## Table of Contents
 * [What is a GitHub Profile README?](#what-is-a-github-profile-readme)
@@ -9,83 +8,39 @@
 * [Clone Repository to VS Code](#clone-repository-to-vs-code)
 * [Basic README Structure](#basic-readme-structure)
 * [Add Header Banner](#add-header-banner)
-* [Add Typing Animation](#add-typing-animation)
-* [Add GitHub Stats](#add-github-stats)
-* [Add GitHub Streak Stats](#add-github-streak-stats)
-* [Add Tech Stack Icons](#add-tech-stack-icons)
-* [Add Social Media Icons](#add-social-media-icons)
-* [Add Visitor Counter](#add-visitor-counter)
-* [Add GitHub Trophy](#add-github-trophy)
-* [Add Contribution Snake Animation](#add-contribution-snake-animation)
-* [Recommended README Structure](#recommended-readme-structure)
-* [Best Practices](#best-practices)
-* [Common Mistakes](#common-mistakes)
-* [Full Starter Template](#full-starter-template)
-* [Useful README Generators](#useful-readme-generators)
-* [Inspiration Repositories](#inspiration-repositories)
-* [References](#references)
 
 ## What is a GitHub Profile README?
 * GitHub allows you to create a **special repository** with the same name as your GitHub username. The `README.md` file inside that repository will automatically appear on your GitHub profile page.
-* Example:
-
-> ```text
-> GitHub Username: johndoe
-> Repository Name: johndoe
-> ```
 
 ## Create Your Profile Repository
+- Go to: https://github.com/new
+- Type the repository name, which should be same as your username. This creates a secret repository.
+- Make the repository Public.
+- Check the box - Add a README file.
+- Click **Create Repository**.
+<img align="left" src="/source/images/create_repository.png" alt="Create Secret Repository" width="200px"/>
 
-### Step 1 — Create Repository
+## Update README file
 
-Go to:
 
-https://github.com/new
 
-**Important Settings**
 
-| Setting | Value |
-| --- | --- |
-| Repository Name | Same as your GitHub username |
-| Visibility | Public |
-| Initialize README | ✅ Checked |
 
-## Clone Repository to VS Code
 
-### Method 1 — Using VS Code GUI
-1. `Ctrl + Shift + P`
-2. Type `Git: Clone`
-3. Paste Repository URL
 
-### Method 2 — Using Terminal
-```bash
-git clone https://github.com/USERNAME/USERNAME.git
-```
 
-## Basic README Structure
 
-```markdown
-# Hi there 👋
 
-## About Me
-- 🎯 Data Analyst / BI Developer
-- 📊 Passionate about Data Engineering & Analytics
-- 🌱 Currently learning Airflow & Modern Data Stack
 
-## Tech Stack
-- Python
-- SQL
-- Power BI
-- Airflow
 
-## Connect with Me
-- LinkedIn
-- Portfolio
-- Email
-```
+
+<!-- 
+
+
+
+
 
 ## Add Header Banner
-
 A banner creates a strong first impression.
 
 **Example**
@@ -97,7 +52,6 @@ A banner creates a strong first impression.
 - Figma
 
 ## Add Typing Animation
-
 Animated typing effect.
 
 **Example**
@@ -109,9 +63,7 @@ Animated typing effect.
 https://readme-typing-svg.herokuapp.com/demo/
 
 ## Add GitHub Stats
-
 Dynamic GitHub statistics card.
-
 **Example**
 
 `![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)`
@@ -121,7 +73,6 @@ Dynamic GitHub statistics card.
 https://github.com/anuraghazra/github-readme-stats
 
 ## Add GitHub Streak Stats
-
 Shows contribution streak.
 
 **Example**
@@ -159,37 +110,24 @@ https://skillicons.dev
 ```
 
 ## Add Visitor Counter
-
 **Example**
-
 `![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)`
-
 **Resource**
-
 https://komarev.com/ghpvc/
 
 ## Add GitHub Trophy
-
 GitHub achievement trophies.
-
 **Example**
-
 `[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)`
-
 **Resource**
-
 https://github.com/ryo-ma/github-profile-trophy
 
 ## Add Contribution Snake Animation
-
 Animated contribution graph.
-
 **Resource**
-
 https://github.com/Platane/snk
 
 ## Recommended README Structure
-
 1. Banner
 2. Introduction
 3. Typing Animation
@@ -201,7 +139,6 @@ https://github.com/Platane/snk
 9. Visitor Counter
 
 ## Best Practices
-
 Good README Should Be:
 - Easy to scan
 - Mobile friendly
@@ -221,7 +158,6 @@ Recruiters care more about:
 than excessive visual effects.
 
 ## Common Mistakes
-
 Avoid:
 - Too many GIFs
 - Too many badges
@@ -234,48 +170,21 @@ Keep your profile:
 - focused
 - easy to navigate
 
-## Full Starter Template
-
-```markdown
-# Hi 👋, I'm Your Name
-
-## 🚀 About Me
-- 📊 BI Developer / Data Analyst
-- 🌱 Learning Data Engineering
-- ⚡ Passionate about analytics automation
-
-## 🛠️ Tech Stack
-Python | SQL | Power BI | Airflow | Docker
-
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-## 🌐 Connect With Me
-- LinkedIn
-- Portfolio
-- Email
-```
-
 ## Useful README Generators
-
 - https://rahuldkjain.github.io/gh-profile-readme-generator/
 - https://profilinator.rishav.dev/
 
 ## Inspiration Repositories
-
 - Awesome GitHub Profile README
   - https://github.com/abhisheknaiidu/awesome-github-profile-readme
 - Awesome GitHub Profiles
   - https://github.com/EddieHubCommunity/awesome-github-profiles
 
 ## References
-
-- Main Article: https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
+- Main Article: 
+  - https://dev.to/supritha/how-to-have-an-awesome-github-profile-1969
 - GitHub README Tools:
   - https://github.com/anuraghazra/github-readme-stats
   - https://github.com/ryo-ma/github-profile-trophy
   - https://github.com/DenverCoder1/github-readme-streak-stats
-  - https://skillicons.dev
+  - https://skillicons.dev -->
