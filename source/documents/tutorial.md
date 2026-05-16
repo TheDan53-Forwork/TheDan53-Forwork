@@ -1,6 +1,6 @@
-# <center> GitHub Profile README Tutorial </center>
-* A practical guide to creating a professional GitHub profile README for portfolio, branding, and recruiter visibility.
+<h1 align="center">GitHub Profile README Tutorial</h1> 
 
+* A practical guide to creating a professional GitHub profile README for portfolio, branding, and recruiter visibility.
 
 ## Table of Contents
 * [What is a GitHub Profile README?](#what-is-a-github-profile-readme)
@@ -16,13 +16,13 @@
 
 ## Create Your Profile Repository
 - Go to: https://github.com/new
-- Type the repository name, which must be **same** as your username. This creates a secret repository.
+- Type the repository name, which must be **Same** as your username. This creates a secret repository.
 - Make the repository *Public*.
 - Check the box - Add a `README.md` file.
 - Click **Create Repository**.
 <img src="/source/images/create_repository.png" alt="Create Secret Repository" width="800px" height="800px"/>
 
-## Beautify your Profile
+## Update README file
 ## Beautify your Profile
 ## Alternative Way
 ## Some Inspiration and Ideas
