@@ -91,4 +91,4 @@ As a Data Analyst, I envision myself as a navigator charting the maps of our dig
 
 ## 📈 GitHub Stats 
 
-[![Dan's github stats](https://github-readme-stats.vercel.app/api?username=Thedan53-Forwork&theme=prussian&show_icons=true)](https://github.com/Thedan53-Forwork)
+[![Dan's github stats](https://github-readme-stats.vercel.app/api?username=Thedan53-Forwork&theme=prussian&show_icons=true)](https://github.com/TheDan53-Forwork)
