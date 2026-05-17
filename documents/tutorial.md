@@ -23,7 +23,28 @@
 <img src="/source/images/create_repository.png" alt="Create Secret Repository" width="800px" height="800px"/>
 
 ## Update README file
+- The initial file looks something like this with a simple message.
+- You can edit the file by clicking on the **Edit README** button on the right.
+<img src="/source/images/edit_readme.png" alt="Create Secret Repository" width="800px" height="800px"/>
+
+- As you can see, the file is provided with a template made using markdown. You can edit it according to your preference.
+- Click on **Commit changes**.You can also add a commit message.
+<img src="/source/images/commit_change.png" alt="Create Secret Repository" width="800px" height="800px"/>
+
 ## Beautify your Profile
+- There's a lot of open source elements available to achieve a beautiful Profile page. Here's a list of resources to choose from!
+
+  ### GitHub README Stats
+  - Link: https://github.com/anuraghazra/github-readme-stats
+
+  ### GitHub profile Trophy
+  - Link: https://github.com/ryo-ma/github-profile-trophy
+
+
+
+
+
+
 ## Alternative Way
 ## Some Inspiration and Ideas
 ## References
